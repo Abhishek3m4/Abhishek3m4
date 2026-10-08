@@ -1,7 +1,7 @@
 \<h1 align="center">Hi 👋, I'm Abhishek Ahirrao\</h1>
 
 \<h3 align="center">
-Electronics & Telecommunication Engineering Student • Embedded Systems • ADAS • Simulation • FPGA
+ Electronics & Telecommunication Engineering Student • Embedded Systems • ADAS • Simulation • FPGA
 \</h3>
 
 \<p align="center">
